@@ -1,3 +1,8 @@
+/********************************************//**
+ *  Author: Siddique Asdullah
+ *  Desc: computes the weighted average of cfus
+ ***********************************************/
+
 #include <iostream>
 
 int main()

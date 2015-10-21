@@ -1,3 +1,8 @@
+/********************************************//**
+ *  Author: Siddique Asdullah
+ *  Desc: given a quadratic equation, computes it     
+ ***********************************************/
+
 #include <iostream>
 #include <cmath>
 

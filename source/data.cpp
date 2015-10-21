@@ -1,3 +1,9 @@
+/********************************************//**
+ *  Author: Siddique Asdullah
+ *  desc: checks if the inserted date is correct
+ ***********************************************/
+
+
 #include <iostream>
 
 bool isLeapYear(int y); //a Year to check

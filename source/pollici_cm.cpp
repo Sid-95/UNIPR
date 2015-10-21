@@ -1,3 +1,8 @@
+/********************************************//**
+ *  Author: Siddique Asdullah
+ *  Desc: converts from inch to cm and vice versa
+ ***********************************************/
+
 #include <iostream>
 #define RAPP_POLL_CM 2.54
 
