@@ -32,7 +32,7 @@ int main()
 
 bool isLeapYear(int y)
 {
-    return ((y % 4 == 0) && (y % 400 == 0));
+    return ((y % 4 == 0) || (y % 400 == 0));
 }
 
 bool checkDate(int d, int m, int y)
